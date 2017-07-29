@@ -1,0 +1,1 @@
+Simplified PlayerClass script by switching to Input.GetAxis("Horizontal") for left/right movement
